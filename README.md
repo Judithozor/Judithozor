@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Judithozor
 - 👀 I’m interested in carrying out research, travelling, reading and surfing the internet. 
-- 🌱 I’m currently learning web design
+- 🌱 I’m currently learning web design using Freecodecamp. 
 - 💞️ I’m looking to collaborate on web design, product testing and ui/ux design internships from pprofessionals. 
 - 📫 How to reach me 07015769427(my whatsapp line), Judith Chidiebere is my facebook page, Judith Ozor is my linkedin handle. 
 
